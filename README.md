@@ -1,7 +1,8 @@
 # Hello ! 👋
 
-Si tu es ici c'est surement parce que : 
-Tu es développeur web, et tu recherches un job qui te fera progresser dans tes projets 
-Tu es développeur web, et je t'ai contacté pour te proposer le job qui te fera progresser dans tes projets 
-Tu es développeur web, je t'ai contacté, tu ne m'a pas répondu, mais tu es quand même curieux de voir ce que j'avais à te proposer 
-Tu t'es juste perdu dans les méandres d'internet 
+* Recruteuse pour un grand groupe média français (dont le numéro de chaine TV est le 1)
+* Je traine sur **Linkedin**, regarde tes mp je t'ai peut-être déjà écrit
+* J'apprends le **HTML, CSS et JS** sur mon temps libre 💻
+* Passionnée par le Japon et sa culture 👺
+* Je pratique la marche à pieds dans les parcs d'attraction le week-end 🎢
+* Je poste ici des offres de job super sympa
